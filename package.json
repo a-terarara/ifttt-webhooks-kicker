@@ -1,0 +1,16 @@
+{
+  "name": "ifttt-webhooks-kicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "co": "^4.6.0",
+    "querystring": "^0.2.0"
+  }
+}
